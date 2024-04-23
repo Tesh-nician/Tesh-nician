@@ -1,5 +1,7 @@
-<background=green>- 👋 Hi, I’m <strong>@Tesh-nician</strong>
-- 🌱 I’m currently learning Java at Intec Brussels.
+👋 Hi, I’m <strong>@Tesh-nician</strong>
+
+
+      🌱 I’m currently learning Java at Intec Brussels.
 
 
 <!---
