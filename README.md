@@ -1,10 +1,15 @@
-👋 Hi, I’m <strong>@Tesh-nician</strong> *
+<H1>👋 Hi, I’m @Tesh-nician  *</H1>
 
 
-      🌱 I’m currently learning Java at Intec Brussels.
+      (🌱 I’m currently learning Java EE at Intec Brussels.)
 
 
-<super>* It's a Dr Who reference: https://tardis.fandom.com/wiki/Tesh</super>
+<BR>
+<BR>
+<BR>
+
+
+\* It's a Dr Who reference: https://tardis.fandom.com/wiki/Tesh
 
 
 <!---
