@@ -4,7 +4,7 @@
       🌱 I’m currently learning Java at Intec Brussels.
 
 
-<super>*</super> <small>It's a Dr Who reference: https://tardis.fandom.com/wiki/Tesh<small>
+<super>*</super> <font:8px>It's a Dr Who reference: https://tardis.fandom.com/wiki/Tesh
 
 
 <!---
