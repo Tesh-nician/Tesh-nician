@@ -1,7 +1,10 @@
-👋 Hi, I’m <strong>@Tesh-nician</strong>
+👋 Hi, I’m <strong>@Tesh-nician</strong> *
 
 
       🌱 I’m currently learning Java at Intec Brussels.
+
+
+<super>*</super> It's a Dr Who reference 
 
 
 <!---
