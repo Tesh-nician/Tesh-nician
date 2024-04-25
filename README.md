@@ -1,28 +1,22 @@
-<H1>👋 Hi, I’m @Tesh-nician  *</H1>
+# 👋 Hi, I’m @Tesh-nician 
 
-I am currently learning Java EE at Intec Brussels. 
-So far, this This covers:
+I am currently learning Java EE at Intec Brussels. \
+So far, this covers:
 <UL>
-<LI>Advanced Java (Collections, streams and lambas, ...</LI>
-<LI>J-Unit</LI>
+<LI>Advanced Java (Collections, streams and lambas, ...)</LI>
+<LI>J-Unit for testing (via Maven)</LI>
 <LI>SQL, MYSQL, Hibernate</LI>
 <LI>Basic frontend skills: HTML, CSS, basic JavaScript</LI>
-<LI></LI>
-<LI></LI>
-<LI></LI>
-<LI></LI>
+<LI>Introduction to agile methodology</LI>
+
 </UL>
 
+Website: https://tesh-nician.github.io/ \
+LinkedIn: www.linkedin.com/in/jonathan-deroo-683932238  
 
 
-Website: https://tesh-nician.github.io/
-LinkedIn: www.linkedin.com/in/jonathan-deroo-683932238
-<BR>
-<BR>
-<BR>
 
-
-\* It's a Dr Who reference: https://tardis.fandom.com/wiki/Tesh
+###### \* It's a Dr Who reference: https://tardis.fandom.com/wiki/Tesh
 
 
 <!---
