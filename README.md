@@ -1,9 +1,22 @@
 <H1>👋 Hi, I’m @Tesh-nician  *</H1>
 
+I am currently learning Java EE at Intec Brussels. 
+So far, this This covers:
+<UL>
+<LI>Advanced Java (Collections, streams and lambas, ...</LI>
+<LI>J-Unit</LI>
+<LI>SQL, MYSQL, Hibernate</LI>
+<LI>Basic frontend skills: HTML, CSS, basic JavaScript</LI>
+<LI></LI>
+<LI></LI>
+<LI></LI>
+<LI></LI>
+</UL>
 
-      (🌱 I’m currently learning Java EE at Intec Brussels.)
 
 
+Website: https://tesh-nician.github.io/
+LinkedIn: www.linkedin.com/in/jonathan-deroo-683932238
 <BR>
 <BR>
 <BR>
