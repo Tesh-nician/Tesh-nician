@@ -7,7 +7,7 @@ So far, this covers:
 <LI>J-Unit for testing (via Maven)</LI>
 <LI>SQL, MYSQL, Hibernate</LI>
 <LI>Basic frontend skills: HTML, CSS, basic JavaScript</LI>
-<LI>Introduction to agile methodology(using Trello)</LI>
+<LI>Introduction to agile methodology (using Trello)</LI>
 <LI>Spring Boot</LI>
 
 
