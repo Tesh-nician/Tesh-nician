@@ -8,6 +8,8 @@ So far, this covers:
 <LI>SQL, MYSQL, Hibernate</LI>
 <LI>Basic frontend skills: HTML, CSS, basic JavaScript</LI>
 <LI>Introduction to agile methodology</LI>
+<LI>Introduction to Spring Boot</LI>
+
 
 </UL>
 
