@@ -4,11 +4,11 @@ I am currently learning Java EE at Intec Brussels. \
 So far, this covers:
 <UL>
 <LI>Advanced Java (Collections, streams and lambas, ...)</LI>
-<LI>J-Unit for testing (via Maven)</LI>
+<LI>J-Unit for testing (via Maven), Mokito</LI>
 <LI>SQL, MYSQL, Hibernate</LI>
-<LI>Basic frontend skills: HTML, CSS, basic JavaScript</LI>
+<LI>Basic frontend skills: HTML, CSS, Typescript, Angular</LI>
 <LI>Introduction to agile methodology (using Trello)</LI>
-<LI>Spring Boot</LI>
+<LI>Spring Framework for Java</LI>
 
 
 </UL>
