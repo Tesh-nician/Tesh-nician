@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Tesh-nician 
 
-I recently finished my one-year intensive Java EE course at Intec Brussels (phew!). \
+In Sep 2024  I finished my one-year intensive Java EE course at Intec Brussels (phew!). \
 In a nutshell, we covered:
 <UL>
 <LI>Advanced Java (Collections, streams and lambas, multi-threading (aarghh), ...)</LI>
@@ -16,14 +16,17 @@ In my last month of the course I also used Mokito for my final project. My concl
 
 My plans for the near future:
 <UL>
-<LI> getting to grips with Javascript,
-<LI> switching to Eclipse from IntelliJ, seeing as I am no longer a student who gets IntelliJ Ultimate for free :-(
-<LI> then either learn Python or delve into AI for Java?
+<LI> Completing the intensive webdev course at CFI Tech Koekelberg by Dec 2025 https://cfitech.be/formation_longue/developpeur/
+ Yes, I love the multi-cultural on-site format. Nothing beats a real teacher who pushes you to your limits. :-) 
+ 
+<LI> ~~switching to Eclipse from IntelliJ, seeing as I am no longer a student who gets IntelliJ Ultimate for free~~ 
+ PhpStorm is now my new IntelliJ :-)
+<LI> ~~then either learn Python or delve into AI for Java?~~ Javascript and PHP for the coming 6 months 
 <LI> contribute to an open source project, if I can find one that can use a beginning Dev. 
  
 </UL>
 
-Hoping to volunteer for FOSDEM this year, so hopefully we will bump into each other :-)
+Hoping to volunteer for FOSDEM again this year, so hopefully we will bump into each other :-)
 
 
 Website: https://tesh-nician.github.io/ \
